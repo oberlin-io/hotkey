@@ -1,4 +1,14 @@
 ---
+s: Windows + left, up, right, down
+p: move
+o: Windows window
+...
+---
+s: ctrl + shft + esc
+p: opens
+o: Windows Task Manager
+...
+---
 s: yy
 p: yank paste
 o: vim line
