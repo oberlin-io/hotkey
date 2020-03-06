@@ -1,5 +1,3 @@
-# Stream of hotkey triples
-# subject, predicte, object
 ---
 s: yy
 p: yank paste
@@ -36,8 +34,7 @@ p: selects
 o: first Chrome tab
 ...
 ---
-s: Windows + legal
+s: Windows + l
 p: locks
 o: Windows account
 ...
----
