@@ -1,0 +1,43 @@
+# Stream of hotkey triples
+# subject, predicte, object
+---
+s: yy
+p: yank paste
+o: vim line
+...
+---
+s: y$
+p: yank paste exclude newline
+o: vim line
+...
+---
+s: alt + f4
+p: quit close
+o: Windows program
+...
+---
+s: alt + tab (+ shift)
+p: switch shuffle
+o: Windows windows
+...
+---
+s: ctrl + c
+p: stop cancel
+o: running Linux terminal shell process
+...
+---
+s: zip -r <archive name> <directory>
+p: zip archive
+o: Linux terminal directory
+...
+---
+s: ctrl + 1
+p: selects
+o: first Chrome tab
+...
+---
+s: Windows + legal
+p: locks
+o: Windows account
+...
+---
