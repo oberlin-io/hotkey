@@ -10,12 +10,17 @@ o: Windows Task Manager
 ...
 ---
 s: yy
-p: yank paste
+p: yank copy
 o: vim line
 ...
 ---
 s: y$
-p: yank paste exclude newline
+p: yank copy exclude newline
+o: vim line
+...
+---
+s: P
+p: paste
 o: vim line
 ...
 ---
